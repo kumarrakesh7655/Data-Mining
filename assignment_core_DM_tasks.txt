@@ -1,0 +1,14 @@
+The goal of predictive data mining is to produce a model that can be used to perform tasks such as classification, prediction or estimation, while the goal of descriptive data mining is to gain an understanding of the analysed system by uncovering patterns and relationships in large data sets
+ There are 4 core data mining tasks.
+1.  Predictive Modeling.
+2.  cluster Analysis. 
+3.  Assosciation Analysis.
+4 Anomly detection.
+
+
+We can use them to analyse some data regarding Covid 19 situation as follows.
+a.  Predictive Modeling :- In this we have given some symptoms of human beings by which we can divide them into two categories firstly high risk and second low risk.then by the examining their symptoms we can analyze wether they are infected from covid19 or not.
+b.  cluster Analysis :- By this we identify the places which are being hotspot of covid19.then we can icrease the testing for covid19 and focus most on those areas.
+
+c.  Assosciation Analysis :- it can be used to find symptoms from the people that are strongly associated with covid19 patients.then we study those symptoms and find the patterns among people who are in low risk category.
+d.  Anomly detection :- it is the task of identifying characteristics different from others like some  people does not have all symptoms of covid19 but has few so we can detect them and without testing them we could not confirm that it is positive case of covid19.
